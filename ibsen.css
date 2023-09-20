@@ -16,15 +16,15 @@
     color:darkred;
   }
   
-  .Hovstad {
+  .SOLNESS {
     color:blue;
   }
   
-  .PeterStockmann {
+  .KAIA {
     color:fuchsia;
   }
   
-  .Aslaksen {
+  .MRS. SOLNESS {
     color:brown;
   }
 
@@ -39,7 +39,7 @@ th, td {
     border: 3px solid #10e71e;
     padding: 15px;
     text-align: center;
-    color:darkorchid;
+    color:darkorchid;z
 }
 
 th {
@@ -50,17 +50,17 @@ tr:nth-child(even) {
     background-color:burlywood;
   }
 
-.Hovstad:hover {
+.SOLNESS:hover {
     text-shadow:2px 2px 4px #FF5733; 
     border: 2px solid #FF5733;
     cursor: pointer; 
 }
-.PeterStockmann:hover {
+.KAIA:hover {
     text-shadow:2px 2px 4px chartreuse; 
     border:2px solid rgb(128, 204, 240);
     cursor: pointer; 
 }
-.Aslaksen:hover {
+.MRS. SOLNESS:hover {
     text-shadow:2px 2px 4px fuchsia; 
     border:2px solid lawngreen;
     cursor: pointer; 
